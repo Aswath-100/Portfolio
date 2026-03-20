@@ -47,7 +47,7 @@ console.log(window.location);
 
     function git(){
            
-          window.location.href = "https://github.com/Aswath-1002";
+          window.location.href = "https://github.com/Aswath-100";
           
     }
 
